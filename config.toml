@@ -1,4 +1,4 @@
-baseURL = "https://ezh.es/blog/"
+baseURL = "https://ezhes.github.io/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 10
