@@ -1,0 +1,12 @@
+:root {
+    --color-link: #e354a5;
+    --color-visited-link: #ee3ca4;
+}
+  
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-link: #f14cac;
+        --color-visited-link: #f14cac;
+    }
+}
+  
